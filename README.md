@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Nikita 👋
 
-<!--
-**NikitaBurmak/NikitaBurmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Backend Developer (PHP / Symfony)
 
-Here are some ideas to get you started:
+## 🚀 About me
+- Building web applications with Symfony
+- Working with REST APIs
+- Using Docker, PostgreSQL, Redis
+- Learning system design and backend architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- PHP (Symfony)
+- PostgreSQL
+- Redis
+- Docker
+- Git
+
+## 📂 Projects
+### MySite
+👉 https://github.com/NikitaBurmak/mysite
+
+- REST API
+- Authentication system
+- Voting system
+- Docker environment
+
+## 📫 Contact
+- Email: nikitaburmak2008@gmail.com
