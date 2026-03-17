@@ -12,6 +12,7 @@
 - PHP (Symfony)
 - PostgreSQL
 - Redis
+- RabbitMQ
 - Docker
 - Git
 
@@ -26,3 +27,4 @@
 
 ## 📫 Contact
 - Email: nikitaburmak2008@gmail.com
+- Telegram @p911rsh
